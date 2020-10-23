@@ -60,4 +60,5 @@ where min_num = Num
     and count_num = 3
 
 
-Reference https://www.itread01.com/article/1512011039.html
+Reference: https://www.itread01.com/article/1512011039.html
+Other Reference: https://learnsql.com/blog/mysql-window-functions-examples/
