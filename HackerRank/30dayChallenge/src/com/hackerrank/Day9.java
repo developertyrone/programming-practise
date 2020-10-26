@@ -9,8 +9,8 @@ public class Day9 {
     // Complete the factorial function below.
     static int factorial(int n) {
         int result = 1;
-        while(n >= 2){
-            result *=n;
+        while (n >= 2) {
+            result *= n;
             n--;
         }
         return result;
@@ -32,4 +32,5 @@ public class Day9 {
         bufferedWriter.close();
 
         scanner.close();
+    }
 }
