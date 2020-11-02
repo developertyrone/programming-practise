@@ -1,3 +1,4 @@
+package com.hackerrank;
 import java.util.Scanner;
 
 public class Day16 {
