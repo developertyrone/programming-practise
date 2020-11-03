@@ -11,7 +11,6 @@ class Calculator{
         }else{
             result = (int)Math.pow(n, p);
         }
-
         return result;
     }
 }
