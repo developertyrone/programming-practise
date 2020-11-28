@@ -10,8 +10,7 @@ import java.util.stream.LongStream;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-
-public class AVeryBigSum{
+public class AVeryBigSum {
     // Complete the aVeryBigSum function below.
     static long aVeryBigSumMethod(long[] ar) {
         return LongStream.of(ar).sum();
